@@ -1,0 +1,189 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.header_bar
+{
+    border: 1px;
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+}
+.bgmi_name
+{
+    height: 62px;
+    width: 144px;
+    margin-top: 19px;
+    margin-left: 10px;
+    
+}
+.menu_bar
+{
+    width: 667px;
+    height: 28px;
+    border: 0px solid black;
+    margin-top: -44px;
+    margin-left: 172px;
+}
+li
+{
+ display: inline;
+ font-size: 18px;
+ list-style: none;
+ margin: 8px;
+}
+li a
+{
+    text-decoration: none;
+    color:silver;
+}
+.menu_bar ul li a:hover
+{
+   color:yellow ;
+}
+.fa-brands
+{    
+    font-size: 27px;
+    color:white;
+    margin: 8px;
+}
+.font 
+{     
+    color: yellow;
+    margin-left: 850px;
+    margin-top: -67px;
+}
+.fa-solid
+{
+ font-size: 25px;
+ color: white;
+}
+.fa-solid:hover
+{
+    color:yellow;
+}
+.fa-brands:hover
+{
+ color: yellow;
+}
+.back_image
+{     
+    width: 100%;
+    height: 100%;
+}
+.playstore
+{
+    
+    border: 1px solid white;
+    width:500px ;
+    height: 200px;
+    margin-left:45px;
+    margin-top: 63px;
+}
+.google_play
+{
+ width: 300px;
+ height: 70px;  
+ margin-bottom: 500px; 
+}
+.applestore
+{
+ width: 300px;
+ height: 70px;  
+ margin-top: -569px; 
+ margin-left: 304px;
+}
+.notice1
+{
+   width: 357px;
+   height: 208px;
+   /* margin-top: -1px;
+   margin-left: 150px; */
+}
+.notice2
+{
+   width: 357px;
+   height: 208px;
+   /* margin-top: -1px;
+   margin-left: 70px; */
+}
+.notice3
+{
+   width: 357px;
+   height: 208px;
+   /* margin-top: -1px;
+   margin-left: 65px; */
+}
+.n1
+{
+    border: 1px solid black;
+    width: 357px;
+    height: 355px;
+    margin-left: 150px;
+    margin-top: 56px;
+}
+.n2
+{
+    border: 1px solid black;
+    width: 357px;
+    height: 355px;
+    margin-left: 570px;
+    margin-top: -356px;
+}
+.n3
+{
+    border: 1px solid black;
+    width: 357px;
+    height: 355px;
+    margin-left:1000px;
+    margin-top: -356px;
+}
+.backimg
+{   
+    border: 1px solid black;
+    width: 1510PX;
+    height: 500px;
+    background-image:url(../images/img.jpg);
+    background-size: cover;
+}
+.videos
+{
+    border: 0px solid black;
+    width: 90%;
+    height: 320PX;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.play_store
+{
+    
+    border: 1px solid black;
+    width:766px ;
+    height: 80px;
+    margin-left: 0px;
+    margin-top: 0px; 
+}
+.googleplay
+{
+ width: 493px;
+ height: 80px;  
+ margin-TOP: -104px; 
+ margin-left: 750PX;
+}
+.apple_store
+{
+ width: 493px;
+ height: 85px;  
+ margin-top: -105px; 
+ margin-left: 230px;
+}
+.footer_bar
+{
+    width: 1510PX;
+    height:100%;
+    border: 1px solid black;
+    background-color: black;
+}
